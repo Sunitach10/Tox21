@@ -8,3 +8,6 @@ Requirements:
 numpy  
 pandas  
 rdkit  
+
+Example:  
+notebooks.ipynb  
