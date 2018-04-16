@@ -1,5 +1,10 @@
 # Tox21
 Preprocessing Tox21 datasets
 
-Usage:
+Usage:  
 `git clone https://github.com/shllln/Tox21.git`
+
+Requirements:  
+numpy  
+pandas  
+rdkit  
