@@ -1,4 +1,4 @@
-# Tox21
+# Tox21 Snippet
 Code snippet Of Preprocessing Tox21 datasets.
 
 Usage:  
